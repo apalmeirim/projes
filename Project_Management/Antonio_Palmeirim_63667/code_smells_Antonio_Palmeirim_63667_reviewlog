@@ -1,0 +1,11 @@
+Code Smells review(Duarte Inácio 62397): (4/11)
+Parecem me code smells bastante pertinentes já que em todo o código encontramos métodos e classes bastante extensas, tornando assim o código mais difícil de
+compreender e modificar.
+Code Smell 3 review - Parece uma code smell bastante interessante e faz bastante sentido.
+Nada a apontar!!
+
+
+Reviewer: Rafael Tavares 60608
+
+Review 1 (Code Smell 2 on 4/11):
+Ao apontar este code smell, penso que se ressalta um code smell importante tanto na eficiencia, como escalabilidade e mantimento do código. Pela descrição dada conseguimos entender de forma mais profunda a presença e o efeito do code smell em questão. No geral, achei bem estruturado e de facil compreensão.

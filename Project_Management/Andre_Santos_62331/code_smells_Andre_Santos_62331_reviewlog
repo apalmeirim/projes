@@ -1,0 +1,11 @@
+Review feita por Luís Serrano, 60253: (4/11)
+    Concordo com todos os code smells apresentados, apenas acho que a print no primeiro smell poderia ter sido mais explícita, colapsando alguns métodos
+    para verificarmos melhor a extensão do código. No entanto, o path em questão é-nos fornecido, portanto foi fácil verificar a veracidade!
+
+Reviews feitas por Tiago Santos, 63390:
+    Review 1 (5/11):
+    Estou de acordo com todas as indicações de problemas de código mencionadas. No entanto, também penso que a descrição do primeiro problema poderia ter sido
+    mais detalhada.
+
+    Review 2 (12/11)
+    Agora estando com mais detalhe em todos, não tenho nada a apontar!

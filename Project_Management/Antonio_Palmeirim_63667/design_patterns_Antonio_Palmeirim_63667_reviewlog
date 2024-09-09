@@ -1,0 +1,3 @@
+Design patterns Review (Duarte Inácio 62397) (4/11)
+Todos os design patterns parecem me ser adequados, bem estruturados e explicados, excepto o façade pattern já que o FreeColClientHolder teria de ser uma interface,
+por isso esse exemplo não me parece o mais adequado.

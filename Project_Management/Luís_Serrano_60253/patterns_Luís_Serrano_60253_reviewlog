@@ -1,0 +1,9 @@
+Reviewer: Antonio Palmeirim
+
+Review 1 (15/11):
+Os design patterns estao bem explicitos e explicados, entretanto so meteria uns class diagrams para todos os patterns que encontraste
+perceber melhor o funcionamento dos designs com o codigo do FreeCol.
+
+Review (André Santos 62331)
+Documento bem estruturado e argumentos organizados de forma coesa e clara. Concordo com a review do antonio no intuito em que faltam class diagrams para os
+design patterns que foram encontrados. De resto nada a dizer.

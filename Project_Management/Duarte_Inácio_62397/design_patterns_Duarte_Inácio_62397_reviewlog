@@ -1,0 +1,18 @@
+Reviewer: Antonio Palmeirim
+
+Review 1 (4/11):
+Os design patterns encontrados parecem me aceitaveis e explicitos, exceto o ultimo caso. No use case diagram
+no final do Facade Pattern, poderia por as diferentes operacoes que sao escondidos ao utilizador, e que sao so
+acessiveis a partir da interface que liga o utilizador e o sistema.
+
+Review 2 (19/11):
+Notei que modificou o facade pattern. Continua correto, e no meu ultimo review referi a inexistencia dos metodos no
+UML diagram, mas com o texto e a explicacao da para perceber bem o pattern e a sua utilidade.
+
+Reviewer: Rafael Tavares 60608
+
+Review 1 (4/11):
+Acho que todos os design patterns estão bem ilustrados e descritos, é possível compreender a forma como estão implementados e a sua implicação na codebase.
+
+Review 2 (25/11):
+A informação continua sólida, no entanto penso que em termos do documento poderia ser melhorado para melhor interpretar o que transmite.

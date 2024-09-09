@@ -1,0 +1,48 @@
+Review, Antonio Palmeirim 63667
+
+Review about User Story 1
+Eu acho que este user story está adequado, mas a implementação parece me que vai ser difícil.
+Uma sugestão seria usarmos criptografia, para darmos uma certa segurança aos jogadores.
+
+Review about User Story 2
+Eu acho que este user story é relevante, pois também achei irritante o comporatamento da camera
+e a implementação para resolver este problema parece me ser rápido e simples de ser fazer.
+
+Review about User Story 3
+Este User Story é bastante parecido ao 2 pois tem a ver como o jogador vizualiza o mapa, e tal como achei no outro, acho
+que é necessário para uma fluidez maior no jogo, para que seja agradável jogar.
+
+
+Review, Duarte Inácio 62397
+
+Review about User Story 2
+Parece me uma US bastante importante, já que os jogadores podem acidentalmente mover unidades quando,
+na realidade, pretendem apenas mover a câmera ou vice-versa. Isso pode acabar por ser frustante e afetar
+a experiência do jogo. Uma sugestão seria em vez de mover a câmara clicando no canto da tela(canto superior, inferior, esquerdo ou direito), 
+seria arrastando a tela para mover a tela. Outra sugestão seria para aproximar e afastar no scoll do rato, em vez de ser nas teclas "+" e "-".
+
+Review about User Story 3
+Parece-me uma US bastante útil, porque as vezes quando o mapa está praticamente todo explorado torna-se aborrecido encontrar os soldados/navio e isso
+irá tornar o jogo menos aborrecido nesse aspeto.
+Uma sugestão seria, tal como o André disse, a criação de um menu onde estariam presentes todas as unidades do jogador onde ao clicar em certa unidade,
+a câmara centralizar-se-ia na mesma.
+
+Review about User Story 4
+
+Parece-me uma US interessante, já que por vezes perdemos um pouco a ideia de como estamos relativamente aos outros jogadores. Com esta implementação 
+conseguia ter uma maior noção do meu desempenho no jogo. Uma sugestão seria colocar na tela uma tabela com o top 3 com maior pontuação ou até mesmo
+colocando a tabela de classificação de todos os paises.
+
+Review, André Santos 62331
+
+Review about User Story 3
+Após analisar este US, o problema parece-me pertinente. Como sugestão ao problema, sugiro a criação de um menu onde estariam presentes todas as
+unidades do jogador onde ao clicar em certa unidade, a câmara centralizar-se-ia na mesma. Desta forma facilitando a navegação das unidades evitando
+também qualquer confusão relativa a qual unidade está selecionada no momento.
+
+Review, Luís Serrano 60253
+
+Review about User Story 4
+Após analisar este US, pareceu-me ser uma questão bastante pretinente, porque para percebermos melhor se estamos a evoluir consoante os outros jogadores,
+haver uma tabela que nos permite ver estatísticas de outros jogadores seria muito proveitoso. Uma sugestão seria criar uma tabela bem delineada, para
+conseguirmos ter "overview" mais organizada sobre o progresso do mundo.
